@@ -1,4 +1,4 @@
-package com.example.ajaxEX.ajaxEX;
+package com.example.ajaxEX;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

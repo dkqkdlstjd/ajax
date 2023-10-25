@@ -1,4 +1,4 @@
-package com.example.ajaxEX.ajaxEX;
+package com.example.ajaxEX;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
